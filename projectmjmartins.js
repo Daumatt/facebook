@@ -145,7 +145,7 @@ var database = [
                message: "Sorry Mr Oluniyi, you have failed woefully, try again next semester"
                 },
                 {   
-               message: "Sorry Mr Ebenezer, you have failed woefully, try again next semester"
+               message: "Sorry Mr Ebenezer, you have failed woefully, try again next semester again"
                 }
             ]
 
